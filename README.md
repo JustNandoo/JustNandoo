@@ -25,7 +25,12 @@
 ---
 
 ## 🎧 Recently Played on Spotify
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=6f5wuvxk75czqbgo059gdkbm2&count=5&unique=false&background_color=0d1117&border_color=1DB954)](https://open.spotify.com/user/6f5wuvxk75czqbgo059gdkbm2)
+<p align="center">
+  <a href="https://open.spotify.com/user/6f5wuvxk75czqbgo059gdkbm2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6f5wuvxk75czqbgo059gdkbm2&count=5&unique=false&width=600" alt="Spotify recently played" />
+  </a>
+</p>
+
 
 
 ---
