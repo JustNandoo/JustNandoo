@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Hi, I'm **Acaryanandana Alif Fajar**
-### 💻 Junior Programmer | Web & Mobile Development Enthusiast
+### 💻 Software Developer | Mobile & Data Science Enthusiast
 
-<img src="https://media.tenor.com/w18QJ5w_kdgAAAAC/black-clover-asta.gif" width="900" height="400" alt="Black Clover GIF" />
+<img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="900" height="400" />
 
 ---
 
@@ -19,17 +19,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JustNandoo&theme=tokyonight-duo" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JustNandoo&theme=tokyonight-duo" />
 </p>
 
 ---
 
 ## 🎧 Recently Played on Spotify
-<p align="center">
-  <a href="https://open.spotify.com/user/6f5wuvxk75czqbgo059gdkbm2">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6f5wuvxk75czqbgo059gdkbm2&count=5&unique=false&width=600" alt="Spotify Recently Played" />
-  </a>
-</p>
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=6f5wuvxk75czqbgo059gdkbm2&count=5&unique=false)](https://open.spotify.com/user/6f5wuvxk75czqbgo059gdkbm2?si=dea46558ee0b4f27)
 
 ---
 
@@ -71,7 +67,7 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nando999">
+  <a href="https://www.linkedin.com/in/nando999/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nandowwww__/">
