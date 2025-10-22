@@ -10,16 +10,16 @@
 ## 🧠 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zelphyx&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelphyx&layout=donut&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JustNandoo&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustNandoo&layout=donut&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zelphyx&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JustNandoo&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=zelphyx&theme=tokyonight-duo" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JustNandoo&theme=tokyonight-duo" />
 </p>
 
 ---
