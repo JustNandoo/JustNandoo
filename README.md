@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm **Ilhami Rizqy**
-### 💻 Junior Programmer | Web & Mobile Development Enthusiast
+# 👋 Hi, I'm **Acaryanandana Alif Fajar**
+### 💻 Software Developer | Mobile Developer & Data Scientist Enthusiast
 
 <img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="900" height="400" />
 
