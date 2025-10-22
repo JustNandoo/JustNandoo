@@ -3,7 +3,7 @@
 # 👋 Hi, I'm **Acaryanandana Alif Fajar**
 ### 💻 Software Developer | Mobile & Data Science Enthusiast
 
-<img src="https://raw.githubusercontent.com/zelphyx/zelphyx/main/tower-of-god-tog.gif" width="900" height="400" />
+<img src="https://github.com/JustNandoo/JustNandoo/blob/5889ff63b444e89fd3b871c7836149c4a956124f/Kimetsu%20No%20Yaiba%20Demon%20GIF.gif" width="900" height="400" />
 
 ---
 
