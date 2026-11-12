@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Acaryanandana Alif Fajar**
-### 💻 Software Engineer | Mobile & Data Science Enthusiast
+### 💻 Software Developer | Mobile & Data Science Enthusiast
 
 <br/>
 
