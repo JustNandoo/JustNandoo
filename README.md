@@ -76,8 +76,6 @@
 </div>
 
 
-saya ada kode ini untuk github saya 
 
-coba ganti semua itu dengan link yang membuat web saya : https://acaryanandana.vercel.app/
+https://acaryanandana.vercel.app/
 
-itu adalah kode untuk readme.md di profile github , berikan kodenya disini
